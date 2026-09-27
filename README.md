@@ -93,24 +93,6 @@ Menu data is:
 
 The project uses Windows-specific libraries such as `windows.h` and `conio.h`, so it is intended for Windows.
 
-## How to Run
-
-### Using GCC
-
-Compile the program with:
-
-```bash
-gcc main.c -o cafeteria
-```
-
-Then run:
-
-```bash
-cafeteria
-```
-
-The exact commands may vary depending on the compiler or IDE being used.
-
 ## Project Files
 
 ```text
