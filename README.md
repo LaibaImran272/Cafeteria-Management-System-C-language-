@@ -93,17 +93,6 @@ Menu data is:
 
 The project uses Windows-specific libraries such as `windows.h` and `conio.h`, so it is intended for Windows.
 
-## Project Files
-
-```text
-Cafeteria-Management-System/
-├── main.c
-├── cafeteria_menu.txt
-└── README.md
-```
-
-`cafeteria_menu.txt` is used by the program to store menu prices and stock information.
-
 ## Learning Objectives
 
 This project was developed to gain practical experience with:
@@ -130,9 +119,3 @@ This project was developed to gain practical experience with:
 * Employee account management
 * Graphical user interface
 * Database integration
-
-## Author
-
-**Laiba Imran**
-
-Developed as an academic project to demonstrate practical application of C programming and problem-solving concepts.
